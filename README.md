@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fatemeh-Goodarzi101
-- 👀 I’m interested in backend developing
-- 🌱 I’m currently learning Php, Laravel, Api, Mvc, Mysql
+- 👀 I’m interested & working in backend developing (using Laravel)
+- 🌱 I’m currently learning wordpress developing
 - 💞️ I'm looking to collaborate on laravel development 
 - 📫 How to reach me ...
 
